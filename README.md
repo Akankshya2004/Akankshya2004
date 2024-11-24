@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats-psi-two-21.vercel.app/api/pin/?username=akankshya2004&repo=github-readme-stats&theme=buefy" />
+<img align="center" src="https://github-readme-stats-akankshyas-projects.vercel.app/api/pin/?username=akankshya2004&repo=github-readme-stats&theme=buefy" />
 
 
 
