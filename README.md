@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Akankshya's GitHub stats](https://github-readme-stats-psi-two-21.vercel.app/api?username=Akankshya2004)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats-psi-two-21.vercel.app/api/pin/?username=akankshya2004&repo=github-readme-stats&theme=buefy" />
 
 
 
