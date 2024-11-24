@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats-akankshyas-projects.vercel.app/api/pin/?username=akankshya2004&repo=github-readme-stats&theme=buefy" />
-
-
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshya2004&" alt="akankshya2004" /></p>
