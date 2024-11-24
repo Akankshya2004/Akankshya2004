@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 
 
+[![Akankshya's GitHub stats](https://github-readme-stats-akankshyas-projects.vercel.app/api?username=Akankshya2004)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
