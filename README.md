@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshya2004&show_icons=true&locale=en" alt="akankshya2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshya2004&show_icons=true&locale=en&layout=compact" alt="akankshya2004" /></p>
+
+
+
 
 
 
